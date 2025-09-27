@@ -5,7 +5,5 @@ asyncio
 dotenv
 openai
 tiktoken
-autogenstudio
 streamlit
 arxiv
-google-generativeai
